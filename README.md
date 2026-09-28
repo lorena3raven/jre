@@ -135,7 +135,7 @@ A composição utiliza fundo escuro, detalhes dourados, tipografia elegante e el
 ## 📞 Contatos da JRE
 
 **WhatsApp:**  
-[(47) 99740-6199](https://wa.me/5547997406199)
+[(47) 8435-1268](https://wa.me/554784351268)
 
 **Instagram:**  
 [@jre.oficial_](https://www.instagram.com/jre.oficial_/)

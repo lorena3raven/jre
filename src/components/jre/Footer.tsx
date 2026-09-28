@@ -4,7 +4,7 @@ import { Instagram, Mail, MessageCircle } from "lucide-react";
 import logoJre from "@/assets/logo-jre.png";
 import logoLorena from "@/assets/lorena-logo.png";
 
-const WHATSAPP = "5547997406199";
+const WHATSAPP = "554784351268";
 const INSTAGRAM = "https://www.instagram.com/jre.oficial_/";
 const EMAIL = "jreoficial024@gmail.com";
 

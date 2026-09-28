@@ -8,7 +8,7 @@ import logoJre from "@/assets/logo-jre.png";
 import { Reveal, GoldRule } from "./Reveal";
 import { Crown } from "./Monogram";
 
-const WHATSAPP = "5547997406199";
+const WHATSAPP = "554784351268";
 
 type Errors = Partial<
   Record<"nome" | "email" | "telefone" | "mensagem", string>
